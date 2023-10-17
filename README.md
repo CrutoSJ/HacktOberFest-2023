@@ -8,4 +8,6 @@ After making the desired changes in their forked repository, contributors submit
 
 HACKTOBERFEST - 2023 aims to promote collaboration, learning, and growth within the open source community. It's an excellent opportunity for individuals to learn more about the open source ecosystem, connect with like-minded developers, and give back to the community by contributing to projects that benefit everyone.
 
+HACKTOBERFEST-ACCEPTED || hacktoberfest || hacktoberfest2023
+
 # for more details visit - https://hacktoberfest.com/participation/#pr-mr-details
